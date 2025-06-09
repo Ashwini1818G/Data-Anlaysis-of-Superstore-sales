@@ -1,2 +1,2 @@
-# SQL-Project
+# Ashwini
 This is Superstore sales Analysis using SQL
