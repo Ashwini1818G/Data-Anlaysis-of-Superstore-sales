@@ -1,4 +1,4 @@
-# This is Superstore sales Analysis using SQL
+# Superstore sales Analysis using SQL
 # Objective:
 The primary aim of project is to conduct an in-depth analysis of sales data to gain valuable insights into sales performance, identify emerging trends, and develop data-driven business strategies for improved decision-making.
 
