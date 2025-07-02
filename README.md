@@ -5,4 +5,5 @@ Various SQL queries are utilized to perform the sales analysis effectively. Thes
 Dashboards are created usig Power bi and Tableau
 ### Tools used:
 Data Exploration and Analysis - SQL
+
 Data visualization - Power bi, tableau
